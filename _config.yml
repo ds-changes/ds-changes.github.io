@@ -1,65 +1,49 @@
-url: https://y7kim.github.io
+url: https://ds-changes.github.io
 baseurl: ""
 
 # Site settings
 title: Data Science for Carbon Harvesting ANd the aGriculturE tranSition (DS-CHANGES)
-email: info@ds-changes.it
-description: "Progetto di ricerca"
-
+email: dschanges@gmail.com
+description: "Exploring the potential of carbon farming to transform agriculture and climate mitigation, supported by Fondazione Cariplo."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Università degli Studi di Brescia
   pic: 1
-  position: Lead Designer
+  position: Project Partner
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: globe
+      url: https://www.unibs.it/
 
-- name: Larry Parker
+- name: Scuola Superiore Sant’Anna
   pic: 2
-  position: Lead Marketer
+  position: Project Partner
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: globe
+      url: https://www.santannapisa.it/
 
-- name: Diana Petersen
+- name: Fondazione Eni Enrico Mattei
   pic: 3
-  position: Lead Developer
+  position: Project Partner
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: globe
+      url: https://www.feem.it/
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks (modifica o aggiungi se vuoi)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/ds-changes
+  - title: email
+    url: mailto:dschanges@gmail.com
 
-# Postal address (add as many lines as necessary)
+# Postal address (se vuoi lo possiamo aggiornare)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Milano, Italia
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Optional: theme colors (da adattare al logo finale)
+theme_color_primary: "#2C3E50"   # blu/grigio sobrio
+theme_color_secondary: "#18BC9C" # verde acqua discreto
