@@ -9,21 +9,21 @@ description: "Exploring the potential of carbon farming to transform agriculture
 # Team names, titles and social links
 people:
 - name: Università degli Studi di Brescia
-  pic: 1
+  pic: logo_brescia
   position: Project Partner
   social:
     - title: globe
       url: https://www.unibs.it/
 
 - name: Scuola Superiore Sant’Anna
-  pic: 2
+  pic: logo_santanna
   position: Project Partner
   social:
     - title: globe
       url: https://www.santannapisa.it/
 
 - name: Fondazione Eni Enrico Mattei
-  pic: 3
+  pic: logo_feem
   position: Project Partner
   social:
     - title: globe
