@@ -1,0 +1,77 @@
+/* ========================== */
+/*   CUSTOM DS-CHANGES STYLE  */
+/* ========================== */
+
+/* --- Hover effetto sulle foto del team --- */
+.team-member img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.team-member img:hover {
+  transform: scale(1.08);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+/* --- Movimento leggero della card --- */
+.team-member {
+  transition: transform 0.2s ease;
+}
+
+.team-member:hover {
+  transform: translateY(-5px);
+}
+
+/* --- Testo leggermente più arioso sotto le foto --- */
+.team-member h4 {
+  margin-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+/* ====== Spaziatura tra il titolo e le foto nella sezione Team ====== */
+#team .section-heading {
+  margin-bottom: 0.5rem; /* riduce lo spazio tra "Project Team" e la riga sotto */
+}
+
+#team .section-subheading {
+  margin-bottom: 3rem; /* aumenta lo spazio tra il sottotitolo e le foto */
+}
+
+/* === CUSTOM CONTACT BACKGROUND === */
+#contact {
+  background: #405C48 !important;  /* verde uniforme */
+  background-image: none !important;  /* rimuove la mappa */
+}
+
+/* --- Fix per immagini nella timeline (cerchi perfetti come il team) --- */
+.timeline-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;        /* adatta l’immagine senza distorcerla */
+  object-position: center;  /* centra il soggetto */
+  border-radius: 50%;       /* mantiene la forma circolare */
+  border: 6px solid #f1f1f1; /* opzionale: bordo bianco elegante */
+}
+.timeline-image {
+  width: 180px;
+  height: 180px;
+}
+
+/* === ZOOM HOVER EFFECT FOR TIMELINE IMAGES === */
+.timeline-image {
+  overflow: hidden; /* evita che l’immagine esca dal cerchio */
+  transition: transform 0.3s ease;
+}
+
+.timeline-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.timeline-image:hover img {
+  transform: scale(1.1); /* zoom leggero */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.25); /* ombra dolce */
+}

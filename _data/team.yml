@@ -1,0 +1,79 @@
+partners:
+  - name: Università degli Studi di Brescia (UNIBS)
+    image: assets/img/team/unibs_logo.jpeg
+    url: https://www.unibs.it
+  - name: Scuola Superiore Sant'Anna (SSSA)
+    image: assets/img/team/sssa_logo.jpeg
+    url: https://www.santannapisa.it
+  - name: Fondazione Eni Enrico Mattei (FEEM)
+    image: assets/img/team/feem_logo.jpeg
+    url: https://www.feem.it
+
+members:
+
+  # === UNIBS ===
+  - name: Davide Bazzana
+    role: Principal Investigator - Università degli Studi di Brescia (UNIBS)
+    image: assets/img/team/bazzana.jpeg
+    bio: >
+      Associate Professor of Economic Policy at UNIBS and collaborator of FEEM.
+      His research focuses on the green transition, environmental economics, and
+      the water-energy-food nexus. He leads the DS-CHANGES project and contributes to
+      several national and EU research initiatives on sustainable resource governance.
+    email: davide.bazzana@unibs.it
+
+  - name: Mattia Guerini
+    role: Associate Professor - Università degli Studi di Brescia (UNIBS)
+    image: assets/img/team/guerini.jpeg
+    bio: >
+      Associate Professor at UNIBS and Senior Researcher at FEEM.
+      His work explores macroeconomic and industrial dynamics with a focus on financial markets
+      and innovation. He employs agent-based and econometric modeling approaches and has held
+      positions at OFCE-SciencesPo, Université Côte d’Azur, and the University of Amsterdam.
+    email: mattia.guerini@unibs.it
+
+  - name: Elisa Grugni
+    role: Research Fellow - Università degli Studi di Brescia (UNIBS)
+    image: assets/img/team/grugni.jpeg
+    bio: >
+      Research fellow at UNIBS and PhD candidate within the European Joint Doctorate “EPOC”.
+      Her work focuses on agent-based modeling, international economics, and climate change economics.
+      Within DS-CHANGES she develops simulation models for carbon farming policy evaluation.
+    email: elisa.grugni@unibs.it
+
+  # === SSSA ===
+  - name: Francesco Lamperti
+    role: Professor of Economics - Scuola Superiore Sant’Anna (SSSA)
+    image: assets/img/team/lamperti.jpeg
+    bio: >
+      Professor of Economics at Sant’Anna School and Scientist at RFF-CMCC European Institute on Economics and the Environment.
+      His research centers on climate change economics, technological innovation, and integrated assessment modeling.
+      ERC grantee and author of numerous publications, he serves on several international editorial boards.
+    email: francesco.lamperti@santannapisa.it
+
+  - name: Matteo Coronese
+    role: Researcher - Scuola Superiore Sant’Anna (SSSA)
+    image: assets/img/team/coronese.jpeg
+    bio: >
+      Tenure-track researcher at the Institute of Economics and L’EMbeDS, Sant’Anna School of Advanced Studies.
+      His research combines big-data econometrics and agent-based models to study climate impacts,
+      inequality, and land-use change. His work has appeared in PNAS, JEEM, and other journals.
+    email: matteo.coronese@santannapisa.it
+
+  - name: Cecilia Castaldo
+    role: Postdoctoral Researcher - Scuola Superiore Sant’Anna (SSSA)
+    image: assets/img/team/castaldo.jpeg
+    bio: >
+      Postdoctoral researcher in applied environmental economics at Sant’Anna School of Advanced Studies.
+      Her research combines impact evaluation and microdata analysis to study the economic effects of climate shocks
+      and the design of adaptation and mitigation policies in sectors such as agriculture and tourism.
+    email: cecilia.castaldo@santannapisa.it
+
+  # === FEEM ===
+  - name: Cristina El Khoury
+    role: Researcher - Fondazione Eni Enrico Mattei (FEEM)
+    image: assets/img/team/elkhoury.jpg
+    bio: >
+      Researcher at FEEM and PhD candidate in Political Science and International Relations at the University of Geneva. Her research focuses on the water-energy-food nexus, sustainable project assessment, and energy poverty. Within DS-CHANGES, she is in charge of dissemination and communication activities.
+    email: cristina.elkhoury@feem.it
+
