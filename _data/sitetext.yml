@@ -38,11 +38,21 @@ en:
 
       - title: "Workshop @Università di Milano-Bicocca"
         year: "October 2025"
-        text: "On October 30, 2025, the DS-CHANGES project will be presented during the workshop “Statistica e Data Science per l’Agricoltura e l’Ambiente” at the University of Milano-Bicocca. The event, organized within the SCARFACE research project, focuses on the application of data science to agricultural and environmental systems in the Po Valley."
+        text: "On October 30, 2025, the DS-CHANGES project has been presented during the workshop “Statistica e Data Science per l’Agricoltura e l’Ambiente” at the University of Milano-Bicocca. The event, organized within the SCARFACE research project, focuses on the application of data science to agricultural and environmental systems in the Po Valley."
         image: assets/img/timeline/bicocca_evento.jpg
 
-      - title: "Coming soon"
-        year: "TBA"
+      - title: "Workshop @Università degli Studi di Brescia"
+        year: "December 2025"
+        text: "On December 11, 2025, the DS-CHANGES project has been presented during the workshop “Research Dialogues on the Complexity of the Energy Transition” at the University of Brescia."
+        image: assets/img/timeline/brescia_evento1.jpg
+
+      - title: "Seminar @Lonato del Garda"
+        year: "January 2026"
+        text: "On January 15, 2026, developments in the DS-CHANGES project were presented at the “Carbon Farming and Voluntary Carbon Markets” seminar, organised by the Interprovincial College of Agricultural Surveyors and Graduate Agricultural Surveyors of Brescia, Cremona and Sondrio. The seminar took place within the framework of the 68th Regional Agricultural, Craft and Trade Fair, under the patronage of the City of Lonato del Garda."
+        image: assets/img/timeline/garda_evento1.jpg
+
+      - title: "TBA"
+        year: "Coming soon"
         text: "Details about the next project meeting or public event will be announced here."
         image: assets/img/timeline/calender_def.jpeg
 
