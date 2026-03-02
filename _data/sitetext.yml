@@ -51,11 +51,24 @@ en:
         text: "On January 15, 2026, developments in the DS-CHANGES project were presented at the “Carbon Farming and Voluntary Carbon Markets” seminar, organised by the Interprovincial College of Agricultural Surveyors and Graduate Agricultural Surveyors of Brescia, Cremona and Sondrio. The seminar took place within the framework of the 68th Regional Agricultural, Craft and Trade Fair, under the patronage of the City of Lonato del Garda."
         image: assets/img/timeline/garda_evento1.jpg
 
-      - title: "TBA"
+      - title: "Presentations @IAERE Conference"
+        year: "February 2026"
+        text: "On February 12-13, 2026, two research papers developed within the DS-CHANGES project were presented at the XIV IAERE Annual Conference held at the University of Trento.
+              The papers presented were: 
+              - The Economics of Carbon Farming: An Agent-Based Perspective on the Agricultural Transition (Grugni E.; Bazzana D.; Guerini M.)
+              - The Geography and Drivers of Carbon Farming Adoption in Italy: Evidence from Farm-level Data using Statistical Learning Methods (Castaldo C.; Coronese M.; Lamperti F.).
+              The conference provided an opportunity to share preliminary findings with the academic community and receive feedback on the ongoing research."
+        image: assets/img/timeline/eventoiaere1.jpeg
+
+      - title: "Mid-term workshop @Scuola Superiore Sant’Anna"
         year: "Coming soon"
         text: "Details about the next project meeting or public event will be announced here."
         image: assets/img/timeline/calender_def.jpeg
 
+      - title: "TBA"
+        year: "Coming soon"
+        text: "Details about the next project meeting or public event will be announced here."
+        image: assets/img/timeline/calender_def.jpeg
 
   team:
     title: "Our Team"
